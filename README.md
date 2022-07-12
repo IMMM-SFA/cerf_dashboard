@@ -1,6 +1,1 @@
-# finalcerf
-hopefully this works
-
-@myself add something here that describes the project
-  - include what CERF is
-  - IM3
+project by Prisha Sheth Summer 2022
