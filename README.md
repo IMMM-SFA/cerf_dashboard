@@ -1,1 +1,5 @@
-project by Prisha Sheth Summer 2022
+Communicating Alternative Futures for Power Plant Siting through Interactive Visualization
+
+The Capacity Expansion Regional Feasibility (CERF) model identifies potential locations for both renewable and non-renewable power plants by combining geospatial analyses with a techno-economic algorithm. CERF provides several outputs for each sited technology in the form of a data table. To elucidate model outputs and communicate outcomes to the scientific community, I built an interactive visual analytics app using Python, Plotly, and Dash. A user can upload a CERF output file and the dashboard produces graphs to visualize the data, including: a scatter plot map showing the locations of each power plant; a choropleth map that compares median interconnection cost across the states; a bar chart to compare the total number of power plants by state; and a stacked bar chart to see the distribution of net operational cost by state and type of power plant. After analyzing the outputs, the user can save and share the graphs to increase interpretability and aid in easier scientific communication of CERF outputs. This app will soon be incorporated into the CERF Python package, promoting active use in the scientific modeling community.
+
+*project by Prisha Sheth in summer 2022*
